@@ -63,6 +63,8 @@ This repository is a Covalent Serverless Application deployed on Microsoft Azure
 
 - After deploy project successfully, you will find `API endpoint` at `Invoke url:`.
 
+  <img width="560" alt="deploy-app" src="https://user-images.githubusercontent.com/13881651/126163773-c253180f-7eef-446c-b168-eaaf898fe522.png">
+
 - How to use your API on Microsoft Azure
   ```
   GET {API endpoint}?path={COVALENT_API_PATH}&param1=value1&param2=value2&...
