@@ -4,6 +4,9 @@ This repository is a Covalent Serverless Application deployed on Microsoft Azure
 ## Azure Service
 [Azure Functions](https://azure.microsoft.com/services/functions/) - Service for create function to interact with [Covalent API](https://www.covalenthq.com/docs/api).
 
+### Sample Service URL
+[DEMO](https://covalent.azurewebsites.net/api/request?path=/chains)
+
 ### Getting Started
 - Go to [Documentation](https://docs.microsoft.com/azure/azure-functions/create-first-function-cli-node)
 
